@@ -1,5 +1,6 @@
 # Tarea-final-GIT
 Trabajo grupal final integrador Git.
+
 En todos los repositorios deben agregarme como colaboradora y en los Pull request: giskeimel es mi ID.
 
 En grupos reducidos (no mas de 3) realizar los siguientes ejercicios:
@@ -11,3 +12,12 @@ En grupos reducidos (no mas de 3) realizar los siguientes ejercicios:
 6.- Actualizar el PR con los ultimos cambios, y agregarme como reviewer del PR
 7.- Una vez que lo apruebe, pueden mergear.
 7.- Mergear a Master.
+/*Calcular El área de un rectángulo  área = largo x ancho. Escribe una función que calcule areaOfRectangle.
+function areaOfRectangle(largo, ancho) {
+    let area= largo * ancho;
+    return area;
+}
+let largo = Number(prompt ("ingrese un valor"));
+let ancho = Number (prompt ("ingrese un valor"));
+console.log (areaOfRectangle(largo,ancho));*/
+
