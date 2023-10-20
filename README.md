@@ -1,5 +1,4 @@
-# Tarea-final-GIT
-Trabajo grupal final integrador Git.
+Luego de los cambios obtener el log de los mismos, y agregarlos al Readme.
 
 REGISTROS:
 
@@ -10,7 +9,7 @@ Date:   Sat Oct 14 16:21:48 2023 -0300
     modificaciones consigna
 
 commit 5659045f822e2563836f163b06620f75eff86295 (origin/main, origin/HEAD)
-Merge: d5af2e1 85db76c
+Merge: d5af2e1 85db76cljjlljlj
 Author: marudcrovo <143459212+marudcrovo@users.noreply.github.com>
 Date:   Sat Oct 14 16:19:21 2023 -0300
 
