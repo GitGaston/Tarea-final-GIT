@@ -1,5 +1,6 @@
 # Tarea-final-GIT
 Trabajo grupal final integrador Git.
+--------------------------------------------------------------------------
 
 En todos los repositorios deben agregarme como colaboradora y en los Pull request: giskeimel es mi ID.
 
