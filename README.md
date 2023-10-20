@@ -1,3 +1,4 @@
+Trabajo Final GIT:
 Luego de los cambios obtener el log de los mismos, y agregarlos al Readme.
 
 REGISTROS:
@@ -45,7 +46,10 @@ Date:   Sat Oct 14 16:32:41 2023 -0300
     Merge branch 'main' into Gaston
 
 commit 429f3dd888267de8b69e607c559d9750d921d888 (origin/Gaston)
-:
+
+# Tarea-final-GIT
+Trabajo grupal final integrador Git.
+--------------------------------------------------------------------------
 
 
 En todos los repositorios deben agregarme como colaboradora y en los Pull request: giskeimel es mi ID.
